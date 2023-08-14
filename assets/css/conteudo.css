@@ -1,0 +1,8 @@
+.conteudo {
+    width: 100%;
+    max-width: 400px;
+    height: 500px;
+    background: #00FF01;
+    margin: 0 auto;
+    margin-bottom: 6rem;
+}
